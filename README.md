@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=MAGGIx1404&color=ff69b4)
-<h2> Hey there! I'm Jeet.</h2>
+<h2> Hey there! I'm Jeet.:laughing::smile:</h2>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
