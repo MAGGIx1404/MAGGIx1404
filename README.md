@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Information technology in Diploma.
-- 🌱 &nbsp; Learning more about web development.
+- 🌱 &nbsp; Learning more about webgl experince and three js.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
