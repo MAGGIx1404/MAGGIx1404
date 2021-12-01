@@ -8,6 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Information technology in Diploma.
 - 🌱 &nbsp; Learning more about webgl experince and three js.
+- :smiling_imp: &nbsp; Currently I recreate Awwwards winning websites for practice.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
