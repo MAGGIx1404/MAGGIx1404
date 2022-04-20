@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MAGGIx1404&color=ff69b4)
 <h2> Hey there! I'm Jeet.:laughing::smile:</h2>
-<img width="100%" alt="gif" align="center" src="https://github.com/MAGGIx1404/Portfolio-2021/blob/master/1.gif">
+<img width="80%" alt="gif" align="center" src="https://github.com/MAGGIx1404/Portfolio-2021/blob/master/1.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
