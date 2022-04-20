@@ -3,9 +3,9 @@
 <img width="80%" alt="gif" align="center" src="https://github.com/MAGGIx1404/Portfolio-2021/blob/master/1.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Information technology in Diploma.
-- 🌱 &nbsp; Learning more about webgl experince and three js.
+- 🤔 &nbsp; Exploring new Frontend Technologies.
+- 🎓 &nbsp; Studying Information Technology in Diploma.
+- 🌱 &nbsp; Learning more about WEBGL & GLSL Shaders experince.
 - :smiling_imp: &nbsp; Currently I recreate Awwwards winning websites for practice.
 <br/>
 <h3> :closed_book: &nbsp; My Skills : MOST USING </h3>
