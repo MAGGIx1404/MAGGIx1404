@@ -32,11 +32,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 <br />
 
-<h3> :closed_book: &nbsp; Contact On: </h3>
-    <a href="https://www.linkedin.com/in/jeet-ramoliya-8b54891a4/" target="blank>
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
- <br/>
 <a href="https://github.com/MAGGIx1404">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAGGIx1404&theme=blue-green&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGGIx1404&theme=blue-green&layout=compact" />
