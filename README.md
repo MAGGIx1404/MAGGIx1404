@@ -32,6 +32,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 <br />
 <a href="https://github.com/MAGGIx1404">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAGGIx1404&theme=blue-green&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAGGIx1404&theme=blue-green&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGGIx1404&theme=blue-green&layout=compact" />
 </a>
