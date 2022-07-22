@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new Frontend Technologies.
 - 🎓 &nbsp; Studying Information Technology in Diploma.
 - 🌱 &nbsp; Learning more about WEBGL & GLSL Shaders experince.
-- :smiling_imp: &nbsp; Currently I recreate Awwwards winning websites for practice.
+- :smiling_imp: &nbsp; Currently I working on my own js library ([Textify.js](https://github.com/MAGGIx1404/Textify.js)).
 <br/>
 <h3> :closed_book: &nbsp; My Skills : MOST USING </h3>
 
