@@ -30,6 +30,8 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 <br />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MAGGIx1404&theme=dark&ring=0CF473&border=EBEBEB&background=040F0F&dates=0CF473&fire=EB0000&currStreakNum=E0EB00&sideNums=0CF473&currStreakLabel=0CF473&sideLabels=0CF473)](https://git.io/streak-stats)
+
 <a href="https://github.com/MAGGIx1404">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAGGIx1404&theme=blue-green&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGGIx1404&theme=blue-green&layout=compact" />
