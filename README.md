@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new Frontend Technologies.
 - 🎓 &nbsp; Studying Information Technology in Diploma.
-- 🌱 &nbsp; Learning more about WEBGL & GLSL Shaders experince.
+- 🌱 &nbsp; Learning Vue & nuxt......
 - :smiling_imp: &nbsp; Currently I working on client project.
 <br/>
 <h3> :closed_book: &nbsp; My Skills : MOST USING </h3>
